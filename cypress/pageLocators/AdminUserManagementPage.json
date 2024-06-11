@@ -1,0 +1,16 @@
+{
+    "addUserButton": ".orangehrm-paper-container button.oxd-button--secondary",
+    "userRoleDropDown": "div[class='oxd-form-row'] div.oxd-grid-item:nth-of-type(1) .oxd-select-text-input",
+    "userRoleDropDownSelectAdmin": "div.oxd-select-dropdown div:nth-of-type(2)",
+    "userRoleDropDownSelectESS": "div.oxd-select-dropdown div:nth-of-type(3)",
+    "employeeNameTextBox": ".oxd-autocomplete-text-input > input",
+    "employeeSearchResultElement": "div.oxd-autocomplete-dropdown > .oxd-autocomplete-option > span",
+    "statusDropDown": ":nth-child(3) > .oxd-input-group > :nth-child(2) > .oxd-select-wrapper > .oxd-select-text > .oxd-select-text-input",
+    "userNameTextBox": "div[class='oxd-form-row'] div.oxd-grid-item:nth-of-type(4) input",
+    "password": "div.user-password-row .user-password-cell input",
+    "confirmPassword": "div.user-password-row > div > div:nth-of-type(2) input",
+    "addUserCancel": ".oxd-form-actions button:nth-of-type(1)",
+    "addUserSave": ".oxd-form-actions button:nth-of-type(2)"
+
+    
+}

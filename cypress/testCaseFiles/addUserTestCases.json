@@ -1,0 +1,19 @@
+[
+    {
+        "testName": "add enabled admin user",
+        "isSkip": false,
+        "tag": "smoke",
+        "login": {
+            "username": "Admin",
+            "password": "admin123"
+        },
+        "newUserDetails": {
+            "userRole": "Admin",
+            "employeeName": "Ravi M B",
+            "status": "Enabled",
+            "userName": "vasuinecjn",
+            "password": "Jaanu@143",
+            "confirmPassword": "Jaanu@143"
+        }
+    }
+]

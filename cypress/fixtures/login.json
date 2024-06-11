@@ -1,0 +1,31 @@
+[
+    {
+        "testName": "test1",
+        "skip": false,
+        "userName": "Admin",
+        "password": "admin123",
+        "validate_message": "Dashboard"
+    },
+    {
+        "testName": "test2",
+        "skip": false,
+        "userName": "Admin",
+        "password": "admin123",
+        "validate_message": "Dashboard"
+    },
+    {
+        "testName": "test3",
+        "skip": true,
+        "userName": "Admin",
+        "password": "admin123",
+        "validate_message": "Dashboard"
+    },
+    {
+        "testName": "test4",
+        "skip": false,
+        "userName": "Admin",
+        "password": "admin123",
+        "validate_message": "Dashboard"
+    }
+]
+  
